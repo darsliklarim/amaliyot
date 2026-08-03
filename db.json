@@ -1,0 +1,83 @@
+{
+  "countries": [
+    {
+      "name": "Germany",
+      "region": "Europe",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/330px-Flag_of_Germany.svg.png"
+    },
+    {
+      "name": "France",
+      "region": "Europe",
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4ZSlE27e32TlaYnPywBXxMQoM_0xaRKN-uM8P4p2fQ&s"
+    },
+    {
+      "name": "Italy",
+      "region": "Europe",
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoY8D_KmjrNRobsZFNHX65WGe4E29UHS7ojmBUGKgAhw&s=10"
+    },
+
+    {
+      "name": "United States",
+      "region": "Americas",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/330px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png"
+    },
+    {
+      "name": "Brazil",
+      "region": "Americas",
+      "flag": "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg"
+    },
+    {
+      "name": "Argentina",
+      "region": "Americas",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/3840px-Flag_of_Argentina.svg.png"
+    },
+
+    {
+      "name": "Uzbekistan",
+      "region": "Asia",
+      "flag": "https://cdn.britannica.com/47/7247-050-BEEDE5E3/Flag-Uzbekistan.jpg"
+    },
+    {
+      "name": "Kazakhstan",
+      "region": "Asia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Kazakhstan_%283-2%29.svg/3840px-Flag_of_Kazakhstan_%283-2%29.svg.png"
+    },
+    {
+      "name": "Japan",
+      "region": "Asia",
+      "flag": "https://cdn.britannica.com/91/1791-004-DA3579A5/Flag-Japan.jpg"
+    },
+
+    {
+      "name": "Algeria",
+      "region": "Africa",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png"
+    },
+    {
+      "name": "Nigeria",
+      "region": "Africa",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+    },
+    {
+      "name": "South Africa",
+      "region": "Africa",
+      "flag": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg"
+    },
+
+    {
+      "name": "Australia",
+      "region": "Oceania",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png"
+    },
+    {
+      "name": "New Zealand",
+      "region": "Oceania",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+    },
+    {
+      "name": "Fiji",
+      "region": "Oceania",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
+    }
+  ]
+}
